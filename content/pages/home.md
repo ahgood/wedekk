@@ -6,7 +6,7 @@ socialImage: ""
 
 Hey,
 
-Thank you for opening my personal resume website.
+Thank you for visiting my personal resume website.
 
 I'm KK, a Web Developer living in Halifax, NS. I've been working on Web Development since 2000.
 
